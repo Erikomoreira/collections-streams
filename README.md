@@ -1,3 +1,3 @@
-# review-collections-streams
+# review-collections-streams-JAVA
 
-Revisando Collections, Streams e Optional em Java
+Revisando Collections, Streams e Optional
