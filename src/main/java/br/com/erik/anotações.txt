@@ -1,0 +1,3 @@
+HashSet: Ele é muito perfomático, mas não garante ordem e não permite ordenação
+LinkedHashSet: Ele é um pouco menos perfomático, pois garante a ordem dos elementos (deve ser utilizado quando a permformance não é muito importante)
+TreeSet: Ele é muito perfomático para leitura, mas é muito complexo e demora para aplicar algoritmo de ordenação
